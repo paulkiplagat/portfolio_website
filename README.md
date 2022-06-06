@@ -16,8 +16,8 @@ The technologies used are as listed
 
 ## Contact information
 
-TWitter@paulkiplagat2
+Twitter@paulkiplagat2
 
-Faceebook@Paulkiplagat
+Facebook@Paulkiplagat
 
 
