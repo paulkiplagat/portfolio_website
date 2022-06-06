@@ -5,9 +5,17 @@ This is a personal portfolio website that intends to convey my expaties and prof
 
 ## Technologies Used
 The technologies used are as listed
+
 1.Javascript
+
 2.Html
+
 3.CSS
+
 4.SCSS
-## Additional information
+
+## Contact information
+TWitter@paulkiplagat2
+Faceebook@Paulkiplagat
+
 
