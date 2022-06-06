@@ -1,4 +1,4 @@
-# Paul Kiplagat portfolio websiteS
+# Paul Kiplagat portfolio website
 
 ## Introduction
 This is a personal portfolio website that intends to convey my expaties and proffesional skills to potential employers and keep my resume uptodate while making it availlabe 
