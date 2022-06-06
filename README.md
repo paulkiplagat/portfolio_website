@@ -8,5 +8,6 @@ The technologies used are as listed
 1.Javascript
 2.Html
 3.CSS
+4.SCSS
 ## Additional information
 
