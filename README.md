@@ -15,7 +15,9 @@ The technologies used are as listed
 4.SCSS
 
 ## Contact information
+
 TWitter@paulkiplagat2
+
 Faceebook@Paulkiplagat
 
 
